@@ -1,16 +1,17 @@
-# well_seven_home
+# Home screen desigh
 
-A new Flutter project.
 
-## Getting Started
+ <div>
+ •  Example
+  </div>
 
-This project is a starting point for a Flutter application.
+<img src='https://github.com/Ahmedelsapagh10/home_screen_design/blob/master/assets/Screenshot_20240524-180604.png' width="40%"/>
+<img src='https://github.com/Ahmedelsapagh10/home_screen_design/blob/master/assets/Screenshot_20240524-180610.png' width="40%"/>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#easy_debounce
+#flutter
+#flutter_dev
+#flutter_package
+
